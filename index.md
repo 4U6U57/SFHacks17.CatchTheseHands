@@ -1,9 +1,9 @@
-# We are Oculus
+# We are *Catch These Hands*
 
-Not the company, the [SF Hacks 2017](https://sfhacks.io) team.
-
-Over the course of > 24 hours, we created an immersive virtual experience with
-support for controller free user interaction using a hand motion sensor.
+*Catch These Hands* is a hackathon project for [SF Hacks
+2017](https://sfhacks.io), created by a team of student developers. Over the
+course of > 24 hours, we created an immersive virtual experience with support
+for controller free user interaction using a hand motion sensor.
 
 ## Hardware
 
@@ -26,6 +26,16 @@ To complete our completely professional hardware mod, we relied on Duck Tape
 ## Software
 
 > @TODO Screenshots and description of software functionality
+
+Aerial view of our map, created with free assets found on the Unity store but
+customized and laid out by our team (not as easy as it sounds).
+![Aerial](static/unity_aerial.png)
+
+Our original idea for the interactive game mechanic was to have the user grab an
+axe and cut down trees. After realizing that the physics behind making the tree
+"fall" was not feasible, we pivoted to having players move boxes scattered
+throughout the map.
+![House](static/unity_static.png)
 
 ## The Team
 
