@@ -1,4 +1,4 @@
-# Unnamed Oculus Project
+# Catch These Hands
 
 ![Unity](https://img.shields.io/badge/engine-Unity-blue.svg)
 ![Oculus](https://img.shields.io/badge/hardware-Oculus-lightgrey.svg)
