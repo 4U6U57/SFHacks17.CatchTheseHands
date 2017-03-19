@@ -12,6 +12,8 @@ The project is built with Unity using the Oculus SDK. We physically attached the
 Leap Motion sensor to the front of the Oculus in order to track hand motion to
 deliver a fully interactive experience.
 
+> @TODO More specific instructions (which folder is the final version)
+
 ## Hackers
 
 - Conor Forgey (@conorforgey)
