@@ -33,7 +33,7 @@ Our original idea for the interactive game mechanic was to have the user grab an
 axe and cut down trees. After realizing that the physics behind making the tree
 "fall" was not feasible, we pivoted to having players move boxes scattered
 throughout the map.
-![House](static/unity_static.png)
+![House](static/unity_house.png)
 
 The final version of our project can be opened in Unity with the folder `Roll a
 ball Game version 2.0`. This name comes from the original Unity tutorial on
