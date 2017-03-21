@@ -25,8 +25,6 @@ To complete our completely professional hardware mod, we relied on Duck Tape
 
 ## Software
 
-> @TODO Screenshots and description of software functionality
-
 Aerial view of our map, created with free assets found on the Unity store but
 customized and laid out by our team (not as easy as it sounds).
 ![Aerial](static/unity_aerial.png)
@@ -36,6 +34,11 @@ axe and cut down trees. After realizing that the physics behind making the tree
 "fall" was not feasible, we pivoted to having players move boxes scattered
 throughout the map.
 ![House](static/unity_static.png)
+
+The final version of our project can be opened in Unity with the folder `Roll a
+ball Game version 2.0`. This name comes from the original Unity tutorial on
+rolling a ball, although ironically after the latest release added a large ball
+in addition to the boxes to interact with, the name is once again relevant.
 
 ## The Team
 
