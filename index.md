@@ -13,26 +13,31 @@ modified the VR headset (seen below) to track hand motions by mounting a Leap
 Motion (also **MLH**) sensor to the front of the device.
 
 Here is a front view of the Oculus VR with Leap Motion sensor
+
 ![Front View](static/oculus_front.jpg)
 
 The placement of the sensor necessitates that the user is staring at their hands
 while operating them. This is a hardware issue, but is normal user behavior.
+
 ![Top View](static/oculus_top.jpg)
 
 To complete our completely professional hardware mod, we relied on Duck Tape
 (also **MLH**).
+
 ![Tape](static/oculus_tape.jpg)
 
 ## Software
 
 Aerial view of our map, created with free assets found on the Unity store but
 customized and laid out by our team (not as easy as it sounds).
+
 ![Aerial](static/unity_aerial.png)
 
 Our original idea for the interactive game mechanic was to have the user grab an
 axe and cut down trees. After realizing that the physics behind making the tree
 "fall" was not feasible, we pivoted to having players move boxes scattered
 throughout the map.
+
 ![House](static/unity_house.png)
 
 The final version of our project can be opened in Unity with the folder `Roll a
